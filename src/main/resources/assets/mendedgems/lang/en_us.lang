@@ -1,0 +1,8 @@
+item.mendedgems:mended_gem.name=Mended Gem
+
+tooltip.mendedgems.mended_gem=Repair items every %f seconds
+
+tier.mendedgems.tier_0=Weak 
+tier.mendedgems.tier_1=Normal 
+tier.mendedgems.tier_2=Strong 
+tier.mendedgems.tier_3=Ultimate 
